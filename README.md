@@ -15,7 +15,8 @@ Foi usado o Figma para prototipar o design do site e HTML e CSS para criação d
 # Tecnologias utilizadas
 - Figma
 - HTML
-- CSS
+- CSS (Grid Layout e Flexbox)
+- Git
 
 # Autor
 
